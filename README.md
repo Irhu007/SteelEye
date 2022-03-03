@@ -6,5 +6,5 @@
   
 **Logging:** You can check all the logs in "steel-eye.log".
 
-**Pydoc: ** File is added with the name "steelEye.html"
+**Pydoc:** File is added with the name "steelEye.html"
 
