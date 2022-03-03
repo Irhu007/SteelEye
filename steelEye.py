@@ -98,7 +98,7 @@ def get_final_df(final_xml_data):
     return df
 
 
-if __name__ == "__main__":
+def lambda_handler(event, context):
     logging.basicConfig(filename='steel-eye.log',
                         format='%(asctime)s %(message)s', filemode='w')
 
